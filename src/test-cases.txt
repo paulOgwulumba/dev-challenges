@@ -1,8 +1,8 @@
-Test case - [3, 0, 1]
-Expected Output - 2
+Test case - [2, 7, 11, 15], 9
+Expected Output - [0, 1]
 
-Test case - [9, 6, 4, 2, 3, 5, 7, 0, 1]
-Expected Output - 8
+Test case - [3, 2, 4], 6
+Expected Output - [1, 2]
 
-Test case - [0, 1, 2, 3, 4, 6, 7, 8, 9]
-Expected Output - 5
+Test case - [1, 5, 3, 8], 4
+Expected Output - [0, 2]

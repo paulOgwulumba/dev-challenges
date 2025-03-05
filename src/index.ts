@@ -1,8 +1,9 @@
 /**
- * Given an array containing n distinct numbers from 0 to n, find the missing number.
- * Example:
- * findMissingNumber([3, 0, 1]) // 2
- */
+  * Given an array of numbers and a target sum, return the indices of the two numbers that add up to the target.
+  * Example:
+  * twoSum([2, 7, 11, 15], 9) // [0, 1] 
+  * twoSum([3, 2, 4], 6) // [1, 2]
+  */
 
 
 
