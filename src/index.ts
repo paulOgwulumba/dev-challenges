@@ -1,8 +1,7 @@
 /**
-  * Given an array of numbers and a target sum, return the indices of the two numbers that add up to the target.
-  * Example:
-  * twoSum([2, 7, 11, 15], 9) // [0, 1] 
-  * twoSum([3, 2, 4], 6) // [1, 2]
+ * Write a function that removes duplicates from an array and returns the unique elements.
+ * Example:
+ * removeDuplicates([1, 2, 2, 3, 4, 4, 5]) // [1, 2, 3, 4, 5]
   */
 
 
