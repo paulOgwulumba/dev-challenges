@@ -1,8 +1,8 @@
 Test case - "hello"
-Expected Output - "olleh"
+Expected Output - 2
 
-Test case - "JavaScript"
-Expected Output - "tpircSavaJ"
+Test case - "programming"
+Expected Output - 3
 
-Test case - racecar
-Expected Output - "racecar"
+Test case - sky
+Expected Output - 0

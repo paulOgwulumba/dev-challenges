@@ -1,8 +1,7 @@
 /**
- * Write a function that takes a string as input and returns the string reversed.
+ * Write a function that counts the number of vowels (a, e, i, o, u) in a given string.
  * Example:
- * reverseString("hello") // "olleh"
- * Bonus: Solve without using built-in reverse().
+ * countVowels("programming") // 3
  */
 
 
