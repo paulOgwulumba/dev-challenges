@@ -1,9 +1,7 @@
 /**
- * Find the First Non-Repeating Character
- * Given a string, find the first character that does not repeat.
+ * Given an array containing n distinct numbers from 0 to n, find the missing number.
  * Example:
- * firstUniqueChar("swiss") // "w"
- * firstUniqueChar("hello") // "h"
+ * findMissingNumber([3, 0, 1]) // 2
  */
 
 
