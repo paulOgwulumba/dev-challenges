@@ -1,9 +1,8 @@
 /**
- * Write a function that prints numbers from 1 to n
- * if a number is divisible by 3, print "Fizz"
- * if a number is divisible by 5, print "Buzz"
- * if a number is divisible by both 3 and 5, print "FizzBuzz"
- * Otherwise, print the number
+ * Write a function that takes a string as input and returns the string reversed.
+ * Example:
+ * reverseString("hello") // "olleh"
+ * Bonus: Solve without using built-in reverse().
  */
 
 
