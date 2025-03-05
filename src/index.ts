@@ -1,7 +1,8 @@
 /**
- * Write a function that counts the number of vowels (a, e, i, o, u) in a given string.
+ * Write a function that checks if a given string is a palindrome (reads the same forward and backward).
  * Example:
- * countVowels("programming") // 3
+ * isPalindrome("racecar") // true
+ * isPalindrome("hello") // false
  */
 
 

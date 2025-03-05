@@ -1,8 +1,8 @@
 Test case - "hello"
-Expected Output - 2
+Expected Output - false
 
-Test case - "programming"
-Expected Output - 3
+Test case - "racecar"
+Expected Output - true
 
-Test case - sky
-Expected Output - 0
+Test case - madam
+Expected Output - true
