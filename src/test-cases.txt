@@ -1,14 +1,14 @@
-Test case - [1, 2, 2, 3, 4, 4, 5]
-Expected Output - [1, 2, 3, 4, 5]
+Test case - 5
+Expected Output - 120
 
-Test case - [5, 5, 5, 5, 5]
-Expected Output - [5]
+Test case - 0
+Expected Output - 1
 
-Test case - [1, 1, 2, 2, 3, 3, 4, 4]
-Expected Output - [1, 2, 3, 4]
+Test case - 3
+Expected Output - 6
 
-Test case - [1, 2, 3, 4, 5]
-Expected Output - [1, 2, 3, 4, 5]
+Test case - 7
+Expected Output - 5040
 
-Test case - []
-Expected Output - []
+Test case - 10
+Expected Output - 3628800
