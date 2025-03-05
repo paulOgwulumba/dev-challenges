@@ -1,7 +1,7 @@
 /**
- * Write a function that returns the factorial of a given number n (n!).
+ * Write a function that returns the second largest number in an array.
  * Example:
- * factorial(5) // 120
+ * secondLargest([10, 5, 8, 12, 3]) // 10
 */
 
 

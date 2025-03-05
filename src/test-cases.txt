@@ -1,14 +1,20 @@
-Test case - 5
-Expected Output - 120
+Test case - 1
+Input: [10, 5, 8, 12, 3]
+Expected Output: 10
 
-Test case - 0
-Expected Output - 1
+Test case - 2 
+Input: [1, 2, 3, 4, 5]
+Expected Output: 4
 
 Test case - 3
-Expected Output - 6
+Input: [100, 100, 90, 85, 95]
+Expected Output: 95
 
-Test case - 7
-Expected Output - 5040
+Test case - 4
+Input: [-5, -2, -10, -1, -8]
+Expected Output: -2
 
-Test case - 10
-Expected Output - 3628800
+Test case - 5
+Input: [7, 7, 7, 7, 7]
+Expected Output: null
+
