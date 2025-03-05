@@ -1,7 +1,7 @@
 /**
- * Write a function that returns the second largest number in an array.
+ * Given two sorted arrays, merge them into a single sorted array.
  * Example:
- * secondLargest([10, 5, 8, 12, 3]) // 10
+ * mergeSortedArrays([1, 3, 5], [2, 4, 6]) // [1, 2, 3, 4, 5, 6]
 */
 
 
