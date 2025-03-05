@@ -1,8 +1,9 @@
 /**
- * Write a function that checks if a given string is a palindrome (reads the same forward and backward).
+ * Find the First Non-Repeating Character
+ * Given a string, find the first character that does not repeat.
  * Example:
- * isPalindrome("racecar") // true
- * isPalindrome("hello") // false
+ * firstUniqueChar("swiss") // "w"
+ * firstUniqueChar("hello") // "h"
  */
 
 

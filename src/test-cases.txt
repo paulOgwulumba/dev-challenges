@@ -1,8 +1,8 @@
-Test case - "hello"
-Expected Output - false
+Test case - "swiss"
+Expected Output - "w"
 
-Test case - "racecar"
-Expected Output - true
+Test case - "racecars"
+Expected Output - "e"
 
-Test case - madam
-Expected Output - true
+Test case - "aabbcc"
+Expected Output - null
