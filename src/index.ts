@@ -4,5 +4,7 @@
  * findMissingNumber([3, 0, 1]) // 2
  */
 
+export function firstUniqueChar(str: string): string | null {
 
+}
 
