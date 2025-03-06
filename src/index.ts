@@ -6,5 +6,7 @@
  * firstUniqueChar("hello") // "h"
  */
 
+export function isPalindrome(str: string): boolean {
 
+}
 
