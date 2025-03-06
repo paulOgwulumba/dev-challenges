@@ -5,5 +5,7 @@
  * isPalindrome("hello") // false
  */
 
+export function isPalindrome(str: string): boolean {
 
+}
 
